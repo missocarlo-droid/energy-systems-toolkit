@@ -3,8 +3,13 @@ Open-source research toolkit for energy systems modelling and data validation. C
 
 **IMAGE RECOGNITION**
 
-Tutorials are provided to facilitate navigation of the workflows.
-Please note that the scripts have been designed to access sensitive data that is hidden in input and output files. Furthermore, they utilise username and password authentication to access APIs. Therefore, their purpose here is exclusively to explain and inspire, as well as to organise the workflow
+Tutorial notebooks are provided to illustrate the workflow and facilitate navigation through the project.
+
+DISCLAIMER
+
+The scripts included in this repository have been adapted for public release. The original implementation accesses sensitive input and output data and relies on authenticated APIs requiring user credentials. For privacy and security reasons, these components have been removed or replaced with placeholders.
+Consequently, the scripts are intended to document the methodology, demonstrate the workflow, and serve as a starting point for similar implementations, rather than being directly executable without modification.
+
 
 **ELECTRICITY DEMAND MODELING**
 
