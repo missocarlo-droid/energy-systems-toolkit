@@ -10,7 +10,7 @@ Disclaimer: the scripts access sensitive data hidden in input/output files. More
 
 1. Collected survey data about current electricity consumption in a rural area in Tanzania.
 2. Modelled introduction of new induction cookers in the system (pilot project). Different deployment rates correspond to  different scenarios)
-3. Handled SESAM's RAMP Open Source model to simulate stochastically electricity load profiles in X scenarios  (stchastic load simulation.py)
+3. Handled SESAM's RAMP Open Source model to simulate stochastically electricity load profiles in X scenarios  (stchastic_load_simulation.py)
 4. Trained neural network (ANN_train.py) on RAMP outputs and simulated 5X scenarios.
 5. Performed statistical analysis of the risk of tripping the grid and assessed feasibility and size of a scale-up project (stats_analysis.py)
 
